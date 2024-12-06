@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1733395672 source:c:\users\asus\documents\kuliah\semeter 3\struktur data\materi\tubes\tubes\list.cpp
+	"TUBESSTD.h"
+	<fstream>
+
+1733395516 c:\users\asus\documents\kuliah\semeter 3\struktur data\materi\tubes\tubes\tubesstd.h
+	<iostream>
+	<stack>
+
+1733395679 source:c:\users\asus\documents\kuliah\semeter 3\struktur data\materi\tubes\tubes\main.cpp
+	"TUBESSTD.h"
+	<conio.h>
+	<fstream>
+
